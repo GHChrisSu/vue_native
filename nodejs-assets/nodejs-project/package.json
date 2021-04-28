@@ -1,0 +1,17 @@
+{
+  "name": "sample-node-project",
+  "version": "0.0.1",
+  "description": "node part of the project",
+  "main": "main.js",
+  "author": "janeasystems",
+  "license": "",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "assert": "^2.0.0",
+    "async-lock": "^1.2.8",
+    "axios": "^0.21.1",
+    "babel-eslint": "^10.0.1",
+    "bsv": "^1.5.4",
+    "buffer": "^6.0.3"
+  }
+}
